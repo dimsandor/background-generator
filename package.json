@@ -8,15 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dimsandor/background-generator.git"
+    "url": "git+https://github.com/sa-dimeny/background-generator.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dimsandor/background-generator/issues"
+    "url": "https://github.com/sa-dimeny/background-generator/issues"
   },
-  "homepage": "https://github.com/dimsandor/background-generator#readme",
-  "dependencies": {
-    "lodash": "^4.17.11"
-  }
+  "homepage": "https://github.com/sa-dimeny/background-generator#readme",
+  "dependencies": {}
 }
